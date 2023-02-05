@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Mature",
+	"description" : "绯色修仙录[网页版]全CG\n我魔改了一下修复了作者的CG报错问题和一些贴图无法消失的问题\n解锁了全CG\n如果桌面点击无反应请关闭腾讯的桌面管理\n\n文件中含有 桌面版本、网页版本 含有教程\n手机用户可以搭建网页版【文件中有教程】\n无脑的教程。小学生都会\n\n我不是作者 作者是 月亮 有能力可以去支持一下作者\nhttps://www.patreon.com/LanYC?fan_landing=true",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "绯色修仙录[0.411]网页版[全CG]",
+	"type" : "Web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "2790900578",
+	"workshopurl" : "steam://url/CommunityFilePage/2790900578"
+}
